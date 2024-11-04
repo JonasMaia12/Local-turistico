@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto página de receita" src="./assets/preview.svg" width="100%">
+  <img alt="projeto Local Turístico" src="./assets/preview.svg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
