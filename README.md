@@ -21,7 +21,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Local Turístico é uma página web com informações sobre um determinado local turístico.
 
-- [Acesse o projeto finalizado, online](https://jonasmaia12.github.io/DevLinks/)
+- [Acesse o projeto finalizado, online](https://jonasmaia12.github.io/Local-turistico/)
 
 ## 🔖 Layout
 
